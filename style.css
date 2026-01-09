@@ -1,0 +1,32 @@
+/* Reset some default spacing */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    text-align: center;
+}
+
+/* Heading style */
+h1 {
+    margin-top: 50px;
+    color: #2c3e50;
+    font-size: 32px;
+}
+
+/* Button style */
+button {
+    margin-top: 30px;
+    padding: 12px 24px;
+    font-size: 16px;
+    color: white;
+    background-color: #0078ff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #005ecb;
+}
